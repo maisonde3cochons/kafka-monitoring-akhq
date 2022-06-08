@@ -76,6 +76,8 @@ akhq:
       properties:
         bootstrap.servers: "broker-01:9092"
 
+## 인증이나 권한, 보안 등 상세 설정 관련해서는 akhq_config_all.yml 파일 참고
+> vi akhq_config_all.yml
 
 ## AKHQ 실행
 cd ~
