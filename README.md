@@ -26,7 +26,7 @@
 
 <br><br>
 
-> ## STG.02. Install & Configure
+> ## Install & Configure
 
 <br>
 
