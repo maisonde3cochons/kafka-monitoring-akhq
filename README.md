@@ -6,7 +6,7 @@
 
 <br>
 
-> #### AKHQ는 인증 및 메시지 조회/검색이 가능하며, Kafka 핵시 서비스와 연동을 지원
+> #### AKHQ는 인증 및 메시지 조회/검색이 가능하며, Kafka 핵심 서비스와 연동을 지원
 
 - 다양한 기능 제공 : Message 검색, Live Tail, 인증(LDAP 등) 연동
 - 운영 기능 제공 : Topic의 Message 전송, Topic 설정 관리, Group 별 권한 관리 가능 (CMAK에서는 Topic에 대한 partition 조절이 가능하지만 AKHQ는 지원 X)
